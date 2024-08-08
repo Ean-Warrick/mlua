@@ -6,12 +6,12 @@ MLua is a neural network focused machine learning library for the Luau scripting
 ## Why Use MLua
 Other machine learning libraries are either made private, lack features or have a steep learning curve.
 
-MLua is fully public and aims to be begineer friendly while maintaining advanced features.
+MLua is fully public and aims to be beginner friendly while maintaining advanced features.
 
 ### Advantages Of MLua
-- OOP: MLua is developed with object oriented progamming in mind, reducing code and simplyfying usage
+- OOP: MLua is developed with object oriented programming in mind, reducing code and simplyfying usage
 - Customizable: MLua networks accept a wide variety of parameters allowing developers flexibility with their networks
-- Expandable: Need something MLua doesn't have? Mlua is modular, making adding new classes and functionality easy
+- Expandable: Need something MLua doesn't have? Mlua is modular, making the process of adding new classes and functionality easy
 
 ## Usage
 ```luau
@@ -65,7 +65,7 @@ print(network:feed({1,0})) -- {0.02743845106441539, 0.972563366679614}
 print(network:feed({0,1})) -- {0.02743720851696361, 0.9725646129975744}
 
 ```
-## Instalation
+## Installation
 1. Find MLua at creator store page link: https://create.roblox.com/store/asset/18865860169/MLua-v100
 2. Click 'try in studio' button
 3. Open Roblox Studio
