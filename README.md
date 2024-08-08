@@ -54,7 +54,7 @@ print("")
 
 -- train network
 for i = 1, 20000 do
-  network:train(training_batch) -- train off the training data 20,000 times
+  network:train(training_batch) -- train using the training data 20,000 times
 end
 
 -- log results after training
