@@ -66,9 +66,9 @@ print(network:feed({0,1})) -- {0.02743720851696361, 0.9725646129975744}
 
 ```
 ## Installation
-1. Find MLua at creator store page link: https://create.roblox.com/store/asset/18865860169/MLua-v100
-2. Click 'try in studio' button
+1. Find MLua at the creator store page link: https://create.roblox.com/store/asset/18865860169/MLua-v100
+2. Click 'try in studio' button found on the creator store page
 3. Open Roblox Studio
-4. Open Toolbox
+4. Open the Toolbox tab in Roblox Studio
 5. Find MLua under 'My Models'
 6. Click MLua to add it to your studio
